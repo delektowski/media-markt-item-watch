@@ -6,13 +6,13 @@
    ```sh
    npm install
    ```
-2. Enter your Telegram API data and port to serve the app in `.env`
+2. Enter your Telegram API data and port to serve the app in `.env` (you should create .env file in project root)
    ```js
    TELEGRAM_TOKEN = "your-telegram-token";
    CHAT_ID = "your-telegram-chat-id";
    PORT = "port-to-serve-the-app";
    ```
-
+3. You should have [Telegram Messenger](https://telegram.org/) installed on your phone
 <!-- USAGE EXAMPLES -->
 
 ### Usage
